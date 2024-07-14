@@ -144,7 +144,11 @@ max-width: 600px;
     align-items: center;
     gap: 1.5rem;
 }
-   
+.about-img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}   
 .about-img img{
     padding-top: 100px;
     padding-bottom: 100px;
